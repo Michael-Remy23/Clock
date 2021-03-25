@@ -14,5 +14,5 @@ function time(){
     second_hand.style.transform = "rotate("+second+"deg)";
 }
 setInterval(time, 1000)
-//Hello
+//Hello how are you?
 
